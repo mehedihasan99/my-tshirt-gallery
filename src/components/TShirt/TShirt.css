@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.tShirt-cart{
+    border: 1px solid rgb(236, 235, 235);
+    padding: 10px;
+}
+.tShirt-cart img{
+    height: 300px;
+    width: 250px;
+}

@@ -1,0 +1,10 @@
+.navBar a{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    color: black;
+    padding: 20px;
+}
+.navBar a:hover{
+    color: orange;
+}
